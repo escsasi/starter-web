@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sasi Ellappan	sasi.ellappan@cohesity.com @sasi-ellappan
 
 # THANKS
 
